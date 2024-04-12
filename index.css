@@ -114,7 +114,7 @@ body {
   }
   
   .button:hover {
-    background-color: #04AA6D;
+    background-color: #FFA447;
     color: #FFFFFF;
     transition: 1s;
     transform: translateY(-5px);
